@@ -10,7 +10,8 @@
     "cluster": "ts-node-dev example/cluster.ts",
     "telegram": "ts-node-dev example/telegram.ts",
     "build": "npm i && npm run clean && tsc",
-    "clean": "rimraf lib"
+    "clean": "rimraf lib",
+    "preinstall": "node preinstall.js"
   },
   "repository": {
     "type": "git",
