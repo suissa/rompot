@@ -26,10 +26,10 @@
   "homepage": "https://github.com/Laxeder/rompot#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "0.2.4",
-    "@whiskeysockets/baileys": "6.5.0",
+    "@whiskeysockets/baileys": "6.7.21",
     "cluster": "0.7.7",
     "crypto-digest-sync": "1.0.0",
-    "jimp": "0.16.2",
+    "jimp": "1.6.0",
     "link-preview-js": "3.0.0",
     "node-cache": "5.1.2",
     "node-telegram-bot-api": "0.64.0",
